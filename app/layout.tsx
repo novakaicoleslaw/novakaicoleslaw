@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "COLESLAW",
   description: "LOVE YOURSELF. LOVE OTHERS.",
+  icons: {
+    icon: "/TABOO.png",
+  },
 };
 
 export default function RootLayout({
